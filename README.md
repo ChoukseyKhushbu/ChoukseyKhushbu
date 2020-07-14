@@ -22,7 +22,7 @@ I am a self taught web developer, trying to dive deep in the ocean of web.
 
 ### 🌱 What I’m currently learning?
 
-Recently, I am much involved in the front-end framework ReactJS.
+Recently, I am much involved in the front-end Library ReactJS.
 
 ### 📫 How to reach me?
 If you would like to discuss anything with me, you can reach out to me on [<img src="https://raw.githubusercontent.com/ChoukseyKhushbu/ChoukseyKhushbu/100c63ccd5bf079f7995582b29ae0b3931724e87/readme/linkedin-box-fill.svg" >](https://www.linkedin.com/in/khushbu-chouksey/)  and  [<img src="https://raw.githubusercontent.com/ChoukseyKhushbu/ChoukseyKhushbu/100c63ccd5bf079f7995582b29ae0b3931724e87/readme/twitter-fill.svg" >](https://twitter.com/ChoukseyKhushbu) 
