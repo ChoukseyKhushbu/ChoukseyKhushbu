@@ -35,6 +35,6 @@ She/Her
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=ChoukseyKhushbu&show_icons=true&theme=dracula&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChoukseyKhushbu&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChoukseyKhushbu&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![visitors](https://profile-counter.glitch.me/ChoukseyKhushbu/count.svg)
