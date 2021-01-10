@@ -16,7 +16,7 @@ I am a self taught web developer, trying to dive deep in the ocean of web.
 
 ### 🤔 What do I do? 
 
- - :green_book: I am a sophomore, with a great interest in JavaScript ecosystem.
+ - :green_book: I am a third year undergraduate, with a great interest in JavaScript ecosystem.
  - :green_book: Building projects in MERN stack. 
  - :green_book: Looking for interesting opportunities in web as a full-stack web developer.
 
