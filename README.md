@@ -16,13 +16,23 @@ I am a self taught web developer, trying to dive deep in the ocean of web.
 
 ### 🤔 What do I do? 
 
- - :green_book: I am a fourth year undergraduate, with a great interest in JavaScript ecosystem.
- - :green_book: Building projects in MERN stack. 
+ - :green_book: React & JavaScript Enthusiast
+ - :green_book: A frontend engineer with 3 years of experience building scalable, performant, and user-friendly web applications.
  - :green_book: Looking for interesting opportunities in web as a front-end/full-stack web developer.
 
-### 🌱 What I’m currently learning?
+### 🔧 Tech Stack & Skills
 
-Recently, I am much involved in the front-end Library ReactJS.
+- **Languages**: JavaScript, TypeScript, HTML, CSS
+- **Frontend**: React.js, Redux Toolkit, Next.js, Vue.js, Gatsby.js
+- **Styling**: Tailwind CSS, Material UI, SCSS
+- **Testing**: Jest, React Testing Library
+- **Backend Exposure**: Node.js, Express, MongoDB, MySQL, Go
+- **DevOps / Tools**: Docker, Netlify, Heroku, GitHub Pages
+
+Design: Figma, Canva
+### 🌱 Currently Exploring
+
+- Building scalable design systems
 
 ### 📫 How to reach me?
 If you would like to discuss anything with me, you can reach out to me on [<img src="https://raw.githubusercontent.com/ChoukseyKhushbu/ChoukseyKhushbu/100c63ccd5bf079f7995582b29ae0b3931724e87/readme/linkedin-box-fill.svg" >](https://www.linkedin.com/in/khushbu-chouksey/)  and  [<img src="https://raw.githubusercontent.com/ChoukseyKhushbu/ChoukseyKhushbu/100c63ccd5bf079f7995582b29ae0b3931724e87/readme/twitter-fill.svg" >](https://twitter.com/ChoukseyKhushbu) 
